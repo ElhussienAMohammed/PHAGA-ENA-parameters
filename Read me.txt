@@ -1,0 +1,8 @@
+# PHAGA: Pharma-Grade Alcohol Best Parameters Based on Molasses Parameters by Elhussien
+
+## 🌟 About
+This web app helps operators determine the best operational parameters for beet molasses fermentation to produce pharma-grade alcohol.  
+It guides on water addition, nitrogen source, pH adjustment, yeast pitch, and flags risks of IPA/methanol formation.
+
+## 🚀 How to Run Locally
+1️⃣ Clone the repo  
